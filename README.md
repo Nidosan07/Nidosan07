@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nidosan</h1>
-<h3 align="center">A passionate Developer & CyberSecurity Enthusiasist from Srilanka</h3>
+<h3 align="center">A passionate Developer & CyberSecurity Student from Srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nidosan07&label=Profile%20views&color=0e75b6&style=flat" alt="Nidosan07" /> </p>
 
