@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nidosan</h1>
-<h3 align="center">A passionate Developer & CyberSecurity Student from Srilanka</h3>
+<h3 align="center">Passionate in Cybersecurity & Compter Network Student from Srilanka</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Cybersecurity<br>🌱 I’m currently learning Computer Networks<br>📫 How to reach me mohan.nidosan@gmail.com
